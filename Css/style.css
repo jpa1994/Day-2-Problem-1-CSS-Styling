@@ -1,0 +1,23 @@
+.namedColor {
+    background: greenyellow;
+    width: 300px;
+    height: 100px;
+}
+
+.hex {
+    background: #00ffff;
+    width: 300px;
+    height: 100px;
+}
+
+.rgb {
+    background: rgb(36, 113, 255);
+    width: 300px;
+    height: 100px;
+}
+
+.hsl {
+    background: hsl(182, 25%, 50%);
+    width: 300px;
+    height: 100px;
+}
